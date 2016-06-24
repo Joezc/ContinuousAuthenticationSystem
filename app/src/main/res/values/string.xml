@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titleImageMissing">Title Image</string>
+    <string name="imageMissing">Image Missing!</string>
+    <string name="textViewTotalTime">Total  Time :</string>
+    <string name="textViewWindowTime">Window Time:</string>
+    <string name="editTextTotalTime">10800</string>
+    <string name="editTextWindowTime">2</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonData">Data</string>
+    <string name="buttonOK">OK</string>
+    <string name="editTextNumberOfCentroids">120</string>
+    <string name="experimentNotice1">Switch to choose User Authentication</string>
+    <string name="buttonClaTestStart">Start</string>
+    <string name="textClaTestResult">Result</string>
+    <string name="buttonAuthStart">Start</string>
+    <string name="buttonAuthStop">Stop</string>
+    <string name="summit">Summit</string>
+</resources>
